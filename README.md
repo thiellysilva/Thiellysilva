@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Thielly 👋
 
-<!--
-**thiellysilva/Thiellysilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst** turning raw data into executive decisions.
 
-Here are some ideas to get you started:
+I build Python dashboards and BI tools that help leaders see what matters — not just numbers, but clarity to act.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 What I work with
+
+`Python` `SQL` `Dash` `Plotly` `Pandas` `BigQuery` `Docker` `Firebase` `Git`
+
+### 📊 What I do
+
+- Design and deploy **interactive dashboards** for executive decision-making
+- Build **full-cycle analytics pipelines**: extraction → transformation → visualization
+- Translate operational data into **KPIs, risk alerts, and action plans**
+
+### 🎓 Background
+
+- **University of Cambridge** — Business Analytics & AI
+- **Ibmec** — MBA, Business Management
+- **4+ years** in logistics & Oil and Gas operations
+
+### 🔗 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thielly-vitoria/)
+
+---
+
+*Currently exploring international opportunities in data analytics & business intelligence.*
