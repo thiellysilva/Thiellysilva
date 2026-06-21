@@ -24,7 +24,7 @@ I build Python dashboards and BI tools that help leaders see what matters — no
 
 ### 🔗 Let's connect
 
-https://www.linkedin.com/in/thiellysilva
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiellysilva/)
 
 ---
 
